@@ -865,8 +865,8 @@ a.back-to-top:hover, a.back-to-top:focus {
   width: 42px;
   line-height: 42px;
   color: #00b4d9;
-  left: 50%;
-  margin-left: -24px;
+  /* left: 50%; */
+  margin-left: -65px;
   margin-top: -24px;
   top: 50%;
   position: absolute;
