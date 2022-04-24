@@ -852,6 +852,16 @@ a.back-to-top:hover, a.back-to-top:focus {
   transition: all 0.5s ease-in-out;
 }
 
+.shot-item .overlayText h3{
+  font-size: 38px;
+  font-weight: 700;
+  font-family: "Source Sans Pro", sans-serif;
+  color: rgb(73, 72, 72);
+  text-align: center;
+  -webkit-transition: all 0.5s ease-in-out;
+  transition: all 0.5s ease-in-out;
+}
+
 .shot-item:hover .overlay {
   opacity: 1;
 }
@@ -865,8 +875,8 @@ a.back-to-top:hover, a.back-to-top:focus {
   width: 42px;
   line-height: 42px;
   color: #00b4d9;
-  /* left: 50%; */
-  margin-left: -65px;
+  left: 60%;
+  margin-left: -35px;
   margin-top: -24px;
   top: 50%;
   position: absolute;
